@@ -1,6 +1,8 @@
 # Android - de ViewHolder à CustomView
 
-Dépôt lié à l'article Android - de ViewHolder à CustomView.
+Dépôt lié à l'article :
+
+> Android - de ViewHolder à CustomView
 
 ## Explications
 
