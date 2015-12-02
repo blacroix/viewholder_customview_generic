@@ -10,7 +10,7 @@
         android:theme="@style/AppTheme">
 
         <activity
-            android:name="fr.blacroix.customview.LibraryActivityCustomView"
+            android:name="fr.blacroix.generic.LibraryActivityGeneric"
             android:label="@string/app_name"
             android:theme="@style/AppTheme">
             <intent-filter>
